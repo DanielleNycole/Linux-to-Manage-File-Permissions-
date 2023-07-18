@@ -57,7 +57,7 @@ The organization did not want “other” to have write access to any files. Whi
 Additionally, .project_x.txt should not have write permissions for anyone, but the user and the group should be able to read the file. I used chmod u-w,g-w,g+r .project_x.txt to remove the writer permissions from the user and the group, and add read permissions for the group. 
 <p align="center"> 
 <br />
-<img src="https://lh3.googleusercontent.com/pw/AIL4fc_IK_jVudwWpokee_BY6b0XoTx7y4_hgxY2UONRAnYrdbnkPocZEMdX0n1jDbnGMYaonsud0tEZ2bKLuqWyJqkDF53dO6GcRDNNVji2BjMNAKyfjDu6d745IYAuWnKUh70dmkE4eUxTKzz91YN6zwuo=w663-h28-s-no?authuser=0" height="80%" width="80%" alt="chmod u-w,g-w,g+r"/>
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc_IK_jVudwWpokee_BY6b0XoTx7y4_hgxY2UONRAnYrdbnkPocZEMdX0n1jDbnGMYaonsud0tEZ2bKLuqWyJqkDF53dO6GcRDNNVji2BjMNAKyfjDu6d745IYAuWnKUh70dmkE4eUxTKzz91YN6zwuo=w663-h28-s-no?authuser=0" height="80%" width="80%" alt="chmod u-w,g-w,g+r"/><br />
 
 <br />
 <img src="https://lh3.googleusercontent.com/pw/AIL4fc8aLVJoJYlPBCm6BthJnzuE-pRCuxQOmeRhpDLQ6iFJzQM4yvcP9QHOjIPaFoP4PBeZm0NxQVFsOa1iWUOL-zmNWnPmjecSe7eGHyeLq6_DZKRxs8irZ40ab3V17U_j11PKRwi3P9J7ETkZTp7zndO_=w664-h208-s-no?authuser=0" height="80%" width="80%" alt="user and group should be able to read"/>
@@ -68,7 +68,7 @@ So while logged in as researcher2, the user permissions should be set, and the g
 
 <p align="center"> 
 <br />
-<img src="https://lh3.googleusercontent.com/pw/AIL4fc-tc_caswd679NR1nmWwx9QMakuxzBOuKciVSDHjJaDICKe7YDy3ejvajyZizARg9Y4j4IZCLJ77LliUmRAW82kSfUY4wXNo_uV0T7QxS8nV8Ybe1BMjaq__BMs4FOuOipWB2V-j-UFf_QK2B-0FVEv=w516-h30-s-no?authuser=0" height="80%" width="80%" alt="chmod g-x"/>
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc-tc_caswd679NR1nmWwx9QMakuxzBOuKciVSDHjJaDICKe7YDy3ejvajyZizARg9Y4j4IZCLJ77LliUmRAW82kSfUY4wXNo_uV0T7QxS8nV8Ybe1BMjaq__BMs4FOuOipWB2V-j-UFf_QK2B-0FVEv=w516-h30-s-no?authuser=0" height="80%" width="80%" alt="chmod g-x"/><br />
 
 <br />
 <img src="https://lh3.googleusercontent.com/pw/AIL4fc-SOpsRnaahmzlxVgmlOMm-wxlnFHd5KxbRZVFnJSfLRFufdUNyZvo4K-BfdZ45brffnAVs_2X7qlmCw-w_9ezXl3T0LA81P3YqslEEuZ8l1hB0Im7W28QOUht_8itdiKgR4yxx2MFyKb0RoKoFyBad=w719-h209-s-no?authuser=0" height="80%" width="80%" alt="only user"/>
