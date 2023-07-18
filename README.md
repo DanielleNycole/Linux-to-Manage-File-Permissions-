@@ -1,7 +1,7 @@
 # Linux-to-Manage-File-Permissions
 <h2>Description</h2>
 
-I was tasked with reviewing and setting file and sub directory permissions within Linux for a fictional organization. This was to ensure that those that are authorized to access files and directories are the only ones allowed to in order to help secure the system a little more. I examined the current file permissions and adjusted according to the requests of the organization.  <br/>
+I was tasked with reviewing and setting file and sub directory permissions within Linux for a fictional organization. This was to ensure those that are authorized to access files and directories are the only ones allowed to in order to help secure the system a little more. I examined the current file permissions and adjusted according to the requests of the organization.  <br/>
 
 First, I reviewd the current file permissions in the project directory:  <br/>
 <p align="center">
